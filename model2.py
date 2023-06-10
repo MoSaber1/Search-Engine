@@ -2,7 +2,7 @@
 import os,random,math
 
 
-from flask import *
+from flask import Flask
 
 app = Flask(
     __name__
